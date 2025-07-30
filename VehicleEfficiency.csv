@@ -48,7 +48,7 @@ VID,make,model,year,cityMPG,highwayMPG,cylinders,displ,co2TailpipeGpm,drive,fuel
 47,Aston Martin,Lagonda,1985,7,9,8,5.3,1110.875,Rear-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
 48,Aston Martin,Saloon/Vantage/Volante,1985,7,9,8,5.3,1110.875,Rear-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
 49,Aston Martin,Saloon/Vantage/Volante,1985,7,10,8,5.3,1110.875,Rear-Wheel Drive,Regular,Manual 5-spd,Subcompact Cars
-50,,Coupe GT,1985,16,21,5,2.2,493.7222222,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
+50,Audi,Coupe GT,1985,16,21,5,2.2,493.7222222,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
 51,Audi,Coupe GT,1985,17,23,5,2.2,467.7368421,Front-Wheel Drive,Regular,Manual 5-spd,Subcompact Cars
 52,Audi,Quattro,1985,15,20,5,2.1,522.7647059,4-Wheel or All-Wheel Drive,Regular,Manual 5-spd,Subcompact Cars
 53,Audi,4000s,1985,21,24,4,1.8,386.3913043,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
@@ -66,7 +66,7 @@ VID,make,model,year,cityMPG,highwayMPG,cylinders,displ,co2TailpipeGpm,drive,fuel
 65,Chevrolet,Camaro,1985,14,20,8,5,522.7647059,Rear-Wheel Drive,Automatic 4-spd,Automatic 4-spd,Subcompact Cars
 66,Chevrolet,Camaro,1985,14,22,8,5,522.7647059,Rear-Wheel Drive,Regular,Manual 5-spd,Subcompact Cars
 67,Chevrolet,Camaro,1985,15,20,8,5,522.7647059,Rear-Wheel Drive,Regular,Automatic 4-spd,Subcompact Cars
-68,Chevrolet,Cavalier Convertible,1985,22,27,4,2,370.2916667,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
+68,Chevrolet,Cavalier Convertible,1985,22,,4,2,370.2916667,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
 69,Chevrolet,Cavalier Convertible,1985,23,32,4,2,341.8076923,Front-Wheel Drive,Regular,Manual 4-spd,Subcompact Cars
 70,Chevrolet,Cavalier Convertible,1985,21,30,4,2,370.2916667,Front-Wheel Drive,Regular,Manual 5-spd,Subcompact Cars
 71,Chevrolet,Cavalier Convertible,1985,18,24,6,2.8,444.35,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
@@ -104,7 +104,7 @@ VID,make,model,year,cityMPG,highwayMPG,cylinders,displ,co2TailpipeGpm,drive,fuel
 103,Dodge,Colt,1985,26,29,4,1.5,329.1481481,Front-Wheel Drive,Regular,Automatic 3-spd,Subcompact Cars
 104,Dodge,Colt,1985,31,37,4,1.5,261.3823529,Front-Wheel Drive,Regular,Manual 4-spd,Subcompact Cars
 105,Dodge,Colt,1985,27,35,4,1.5,296.2333333,Front-Wheel Drive,Regular,Manual 5-spd,Subcompact Cars
-106,,Colt,1985,21,24,4,1.6,403.9545455,Front-Wheel Drive,Premium,Automatic 3-spd,Subcompact Cars
+106,Dodge,Colt,1985,21,24,4,1.6,403.9545455,Front-Wheel Drive,Premium,Automatic 3-spd,Subcompact Cars
 107,Dodge,Colt,1985,21,24,4,1.6,403.9545455,Front-Wheel Drive,Premium,Automatic 3-spd,Subcompact Cars
 108,Dodge,Colt,1985,21,28,4,1.6,370.2916667,Front-Wheel Drive,Premium,Manual 5-spd,Subcompact Cars
 109,Dodge,Colt,1985,21,28,4,1.6,370.2916667,Front-Wheel Drive,Premium,Manual 5-spd,Subcompact Cars
